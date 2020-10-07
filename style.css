@@ -1,24 +1,15 @@
-.Formulaire1{
+.form1, .legend1{
     background-color: #2574a9;
 }
 
-.Formulaire2{
+.form2, .legend2{
     background-color: #9a12b3;
 }
 
-.Formulaire3{
+.form3, .legend3{
     background-color: #db0a5b;
 }
-
-.legend1{
-    background-color: #2574a9;
+#creditCardsList{
+    list-style: none;
 }
 
-.legend2{
-    background-color: #9a12b3 ;
-}
-
-.legend3{
-    background-color: #db0a5b;
-}
-    
